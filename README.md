@@ -1,4 +1,8 @@
-# A0
+Texto de teste: BOM DIA!!!
+
+
+
+<!-- # A0
 TESTE
 <P>oi oi oi oi oi oi  oi oi oi oi oi oi</P>
 <h1>oi</h1> 
@@ -12,4 +16,4 @@ TESTE
 <h5>oi</h5>
 <P>oi oi oi oi oi  <br>  oi oi oi oi oi oi oi</P>
 <h6>oi</h6>
-<P>oi oi oi oi oi oi <br>  oi oi oi oi oi oi</P>
+<P>oi oi oi oi oi oi <br>  oi oi oi oi oi oi</P> -->
